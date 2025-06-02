@@ -38,5 +38,6 @@
 ---
 
 > **PathArk —— 让你的常用文件/文件夹像“任意门”一样，随叫随到！再也不用翻半天，效率提升不是一点点！**
-
+> **未经授权，禁止用于商业用途。
+Unauthorized commercial use is prohibited.**
 ---
