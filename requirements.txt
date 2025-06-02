@@ -1,0 +1,4 @@
+watchdog
+pylnk3
+Pillow
+pywin32
