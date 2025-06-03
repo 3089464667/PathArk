@@ -34,7 +34,7 @@ Still frustrated about not finding the file you just used? Still searching back 
 2. Search, double-click, switch themes—do as you like.
 3. Close the window? No worries, summon from the tray icon anytime.
 4. Right-click the tray icon to exit completely.
-
+5. If you find it useful, you are welcome to click star to support this project.
 ---
 
 > **PathArk — Make your favorite files/folders as accessible as a magic door! No more endless searching, efficiency boosted by leaps and bounds!**
